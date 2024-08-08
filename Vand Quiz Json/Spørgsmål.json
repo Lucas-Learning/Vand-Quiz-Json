@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Spørgsmål": "Hvor meget vand bruger den gennemsnitlige dansker om dagen?",
+    "Options": [ "105 liter", "505 liter", "55 liter" ],
+    "Svar": 1
+  },
+  {
+    "Id": 2,
+    "Spørgsmål": "Hvor gammelt er vandet, vi tapper fra hanen?",
+    "Options": [ "1 år", "20 år", "10 år" ],
+    "Svar": 2
+  },
+  {
+    "Id": 3,
+    "Spørgsmål": "Hvor mange liter vand bruger vi typisk på et brusebad på 5 minutter?",
+    "Options": [ "Mellem 50 og 100 liter", "Mellem 5 og 10 liter", "Mellem 10 og 20 liter" ],
+    "Svar": 1
+  },
+  {
+    "Id": 4,
+    "Spørgsmål": "Hvor meget vand løber ud af haveslangen på et minut?",
+    "Options": [ "1 liter", "5 liter", "12 liter" ],
+    "Svar": 3
+  },
+  {
+    "Id": 5,
+    "Spørgsmål": "Hvad bruger mest vand i hjemmet?",
+    "Options": [ "Tøjvask", "Bad og hygiejne", "Toiletskyl" ],
+    "Svar": 2
+  },
+  {
+    "Id": 6,
+    "Spørgsmål": "Hvor meget vand ideholder de store havepools?",
+    "Options": [ "40.000-50.000 liter", "5.000-10.000 liter", "60-120 liter" ],
+    "Svar": 1
+  }
+]
